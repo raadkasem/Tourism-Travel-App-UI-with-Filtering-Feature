@@ -1,6 +1,8 @@
 # Tourism-Travel-App-UI-with-Filtering-Feature
 
 Travel app UI with Filtering feature
+Based On Flutter 2+.
+No state Management used [with this version].
 
 ## Getting Started
 
