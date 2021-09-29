@@ -1,4 +1,4 @@
-# travel_app
+# Tourism-Travel-App-UI-with-Filtering-Feature
 
 Travel app UI with Filtering feature
 
